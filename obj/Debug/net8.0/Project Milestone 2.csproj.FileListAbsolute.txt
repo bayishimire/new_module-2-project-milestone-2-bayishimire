@@ -1,0 +1,15 @@
+C:\Users\bayis_csfvyn5\OneDrive\Desktop\CSHARP PROJECT AS ASSIGNMENT\Project Milestone 2\module-2-project-milestone-2-bayishimire\bin\Debug\net8.0\Project Milestone 2.exe
+C:\Users\bayis_csfvyn5\OneDrive\Desktop\CSHARP PROJECT AS ASSIGNMENT\Project Milestone 2\module-2-project-milestone-2-bayishimire\bin\Debug\net8.0\Project Milestone 2.deps.json
+C:\Users\bayis_csfvyn5\OneDrive\Desktop\CSHARP PROJECT AS ASSIGNMENT\Project Milestone 2\module-2-project-milestone-2-bayishimire\bin\Debug\net8.0\Project Milestone 2.runtimeconfig.json
+C:\Users\bayis_csfvyn5\OneDrive\Desktop\CSHARP PROJECT AS ASSIGNMENT\Project Milestone 2\module-2-project-milestone-2-bayishimire\bin\Debug\net8.0\Project Milestone 2.dll
+C:\Users\bayis_csfvyn5\OneDrive\Desktop\CSHARP PROJECT AS ASSIGNMENT\Project Milestone 2\module-2-project-milestone-2-bayishimire\bin\Debug\net8.0\Project Milestone 2.pdb
+C:\Users\bayis_csfvyn5\OneDrive\Desktop\CSHARP PROJECT AS ASSIGNMENT\Project Milestone 2\module-2-project-milestone-2-bayishimire\obj\Debug\net8.0\Project Milestone 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bayis_csfvyn5\OneDrive\Desktop\CSHARP PROJECT AS ASSIGNMENT\Project Milestone 2\module-2-project-milestone-2-bayishimire\obj\Debug\net8.0\Project Milestone 2.AssemblyInfoInputs.cache
+C:\Users\bayis_csfvyn5\OneDrive\Desktop\CSHARP PROJECT AS ASSIGNMENT\Project Milestone 2\module-2-project-milestone-2-bayishimire\obj\Debug\net8.0\Project Milestone 2.AssemblyInfo.cs
+C:\Users\bayis_csfvyn5\OneDrive\Desktop\CSHARP PROJECT AS ASSIGNMENT\Project Milestone 2\module-2-project-milestone-2-bayishimire\obj\Debug\net8.0\Project Milestone 2.csproj.CoreCompileInputs.cache
+C:\Users\bayis_csfvyn5\OneDrive\Desktop\CSHARP PROJECT AS ASSIGNMENT\Project Milestone 2\module-2-project-milestone-2-bayishimire\obj\Debug\net8.0\Project Milestone 2.sourcelink.json
+C:\Users\bayis_csfvyn5\OneDrive\Desktop\CSHARP PROJECT AS ASSIGNMENT\Project Milestone 2\module-2-project-milestone-2-bayishimire\obj\Debug\net8.0\Project Milestone 2.dll
+C:\Users\bayis_csfvyn5\OneDrive\Desktop\CSHARP PROJECT AS ASSIGNMENT\Project Milestone 2\module-2-project-milestone-2-bayishimire\obj\Debug\net8.0\refint\Project Milestone 2.dll
+C:\Users\bayis_csfvyn5\OneDrive\Desktop\CSHARP PROJECT AS ASSIGNMENT\Project Milestone 2\module-2-project-milestone-2-bayishimire\obj\Debug\net8.0\Project Milestone 2.pdb
+C:\Users\bayis_csfvyn5\OneDrive\Desktop\CSHARP PROJECT AS ASSIGNMENT\Project Milestone 2\module-2-project-milestone-2-bayishimire\obj\Debug\net8.0\Project Milestone 2.genruntimeconfig.cache
+C:\Users\bayis_csfvyn5\OneDrive\Desktop\CSHARP PROJECT AS ASSIGNMENT\Project Milestone 2\module-2-project-milestone-2-bayishimire\obj\Debug\net8.0\ref\Project Milestone 2.dll
